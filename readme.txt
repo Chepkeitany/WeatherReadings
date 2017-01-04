@@ -1,5 +1,6 @@
 First, ensure you have python 2.7 and above installed
-To run the code in this project, type `python weather.py`
+To run the code in this project, git clone the repository,
+then cd to that repository and type `python weather.py` on the command line.
 
 
 You should expect to see such an output:
